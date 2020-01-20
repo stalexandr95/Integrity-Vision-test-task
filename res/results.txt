@@ -1,0 +1,9 @@
+The result set for testwords.txt:
+ratcatdogcat - the longest concatenated word
+catsdogcats - the second longest concatenated word
+File has 3 concatenated words
+
+The result set for words.txt(main file):
+ethylenediaminetetraacetates - the longest concatenated word
+ethylenediaminetetraacetate - the second longest concatenated word
+File has 97107 concatenated words
