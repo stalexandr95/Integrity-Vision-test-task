@@ -1,6 +1,6 @@
 # Test task from Integrity Vision
 
-##Concatenated Words
+## Concatenated Words
 The file called “words.txt” contains a sorted list of
 approximately 173,000 words. The words are listed one word per line, do not contain spaces,
 and are all lowercase.
